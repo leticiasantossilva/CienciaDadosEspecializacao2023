@@ -7,7 +7,7 @@ Data: 29/11/2023
 
 """
 
-
+# Funções para o processo de entrada de dados
 
 def leitora_numeros() -> list:
     """ Esta função recebe os dois números que fazem parte do cálculo """
@@ -36,3 +36,9 @@ def leitora() -> list:
     return [lista_numeros, operacao]
 
 
+# Processo de saída de dados
+
+def escritora(resultado: float) -> None:
+    """ Esta função coloca o resultado na tela """
+    print(f"O resultado da operação é igual a {resultado}")
+    

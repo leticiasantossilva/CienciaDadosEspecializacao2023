@@ -1,3 +1,9 @@
 # Plano de codificação e teste
 
-O método de desenvolvimento entregado será Read Evaluate Print Loop (RDD). A linguagem de utilização será o Python, porque é a mais utilizada no mundo. Para tal, faremos uso da distribuição anaconda Python.
+## Plano de código
+
+A linguagem de programação utilizada será o Python, porque é a mais utilizada no mundo. Para tal, faremos uso da distribuição anaconda Python.
+
+## Plano de testes
+O método de desenvolvimento e testes de códigos será o REPL (Read-Eval-Print Loop) Driven Development (RDD).
+

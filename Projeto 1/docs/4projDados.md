@@ -1,10 +1,5 @@
 # Projeto de Dados
 
-Dizer a estrutura de dados que será usada:    <! – é importante justificar a escolha  ––>
+Os dados inseridos pelo usuário serão unidos por uma lista, por ser a maneira mais simples de armazenar a sequência de dados adquiridos na entrada.
 
-Lista [num1, num2, op]
-
-
-![Projeto Conceitual](projConceitual.md)
-![Projeto Lógico](projLogico.md)
-![Projeto Físico](projFisico.md)
+A lista terá a estrutura: [[número1, número2], operação]

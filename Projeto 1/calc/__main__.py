@@ -15,7 +15,8 @@ import es
 import proc
 
 
-# Definindo as funções
+# Definindo a função de operações matemáticas
+
 def escolhedora(dados: list) -> float:
     """Esta função escolhe a operação de acordo com o usuário"""
     if dados[1] == "+":
@@ -29,14 +30,17 @@ def escolhedora(dados: list) -> float:
     return resultado
 
 
+# Definindo a função principal da calculadora
+
 def main():
+    """Esta é a função principal que integra as fases de entrada, processamento e saída de dados"""
     dados = es.leitora()
-    reultado = escolhedora(dados)
+    resultado = escolhedora(dados)
     es.escritora(resultado)
     
     
 # Execução
 
-if __none__ == "__main__":
+if __name__ == "__main__":
     main()
     

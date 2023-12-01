@@ -1,15 +1,15 @@
 # Projeto de algorítmos
 
-O algorítmo neste projeto utiliza as seguintes funções:
+O projeto de algorítmo de processamento de dados da calculadora básica utilizará as seguintes funções:
 
-Função de adição:
+1. Função de adição:
 op(+)
 
-Função de multiplicação:
+2. Função de multiplicação:
 op(x)
 
-Função de divisão:
+3. Função de divisão:
 op(/)
 
-Função de subtração:
+4. Função de subtração:
 op(-)
