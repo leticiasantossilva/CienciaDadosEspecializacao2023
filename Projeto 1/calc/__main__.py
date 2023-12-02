@@ -1,6 +1,6 @@
 """
 Módulo Principal
-Descrição: Este módulo define a função principal da calculadora básica.
+Descrição: Este módulo define a função principal do projeto de Calculadora com as 4 operações básicas.
 Autor: Letícia Santos
 Versão: 0.0.1
 Data: 29/11/2023
