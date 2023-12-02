@@ -2,12 +2,18 @@
 
 Este aplicativo será desenvolvido com programação orientada a objetos e a ação será representada por um objeto que possui as seguintes características:
 
-1. Atributos
+1. Atributos:
+
 Razão Social (emissor)
+
 Código B3
 
-2. Funcionalidades
+
+
+2. Funcionalidades:
+
 Negociar (compra e venda)
+
 
 
 ## Módulo de Entrada e Saída de Dados

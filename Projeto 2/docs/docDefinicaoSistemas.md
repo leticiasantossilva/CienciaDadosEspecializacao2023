@@ -1,5 +1,7 @@
 # Documento de Definição de Sistemas
 
+Este documento organiza as definições de sistemas baseadas nos requisitos de desenvolvimento do projeto de Aplicativo de Modelagem do Mercado de Ações na B3.
+
 ## Requisito funcional
 
 O cliente solicitou o desenvolvimento de um aplicativo capaz de simular uma ação listada na Bolsa de Valores do Brasil (B3).
@@ -9,16 +11,22 @@ O cliente solicitou o desenvolvimento de um aplicativo capaz de simular uma aç�
 Em entrevista, o cliente respondeu sobre as seguintes questões:
 
 1. Objetivo do aplicativo
+
 Aplicativo que faça simulação do mercado financeiro, inicialmente começando apenas pelo mercado de ações.
 
+
 2. Escopo do projeto
+
 Aplicativo deve simplesmente modelar uma ação na B3.
+
 > Será possível desenvolver o modelo computacional da ação. 
 
 3. Informações necessárias
+
 Simular uma ação na B3.
 Este ativo ainda não está listado na bolsa de valores, por isso a simulação deve apresentar as informações de uma ação a ser emitida na B3.
 > Dados necessários para isso: Nome da empresa (razão social); Nome do ticker na B3. 
+
 
 Assim, podemos definir para o projeto os seguintes requisitos:
 
