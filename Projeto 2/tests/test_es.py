@@ -7,7 +7,7 @@ Data: 30/11/2023
 
 """
 
-from proc import Acao
+from test_proc import Acao
 
 # Definindo a função de entrada do nome da empresa emissora da ação
 

@@ -1,6 +1,6 @@
 """
 Módulo Principal
-Descrição: Este é o módulo principal do Aplicativo de Modelagem do Mercado de Ações na B3.
+Descrição: Este é o módulo com a função principal que integra as fases de entrada, processamento e saída de dados do Aplicativo de Modelagem de Ação na B3.
 Autor: Letícia Santos
 Versão: 0.0.1
 Data: 30/11/2023
@@ -15,9 +15,10 @@ import es
 from proc import Acao
 
 
-# Definindo as funções
+# Definindo a função principal
 
 def main():
+    """Esta é a função principal que integra as fases de entrada, processamento e saída de dados"""
     # Leitura de dados
     dados = es.leitora()
     

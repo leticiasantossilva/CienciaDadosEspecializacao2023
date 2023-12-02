@@ -18,7 +18,7 @@ Este módulo processará o cálculo de acordo com os dados inseridos pelo usuár
 
 ## Módulo principal
 
-Este o módulo com a função principal que integra as fases de entrada, processamento e saída de dados
+Este é o módulo com a função principal que integra as fases de entrada, processamento e saída de dados.
 
 ## Desenho do projeto
 

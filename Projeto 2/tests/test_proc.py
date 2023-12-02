@@ -1,6 +1,6 @@
 """
 Módulo de Processamento
-Descrição: Este módulo prevê o processamento de dados com a classe Acao para o desenvolvimento do Aplicativo de Modelagem do Mercado de Ações na B3.
+Descrição: Este módulo prevê funções de processamento de dados para Aplicativo de Modelagem do Mercado de Ações na B3.
 Autor: Letícia Santos
 Versão: 0.0.1
 Data: 30/11/2023
